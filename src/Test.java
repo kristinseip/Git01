@@ -1,5 +1,8 @@
 public class Test {
 
-    int price;
+    int date;
     String name;
+    int age;
+    double x;
+
 }
