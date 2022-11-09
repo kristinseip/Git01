@@ -13,6 +13,6 @@ public class Main {
 
         System.out.println("wonder how this will end");
         System.out.println("What will happen here?");
-        System.out.println("Will I be able to merge now or wil it break?");
+        System.out.println("Will I be able to merge now?");
     }
 }
