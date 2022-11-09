@@ -11,5 +11,7 @@ public class Main {
         System.out.println("Let's have a party");
         System.out.println("this is another attempt");
 
+        System.out.println("What will happen here?");
+        System.out.println("Will I be able to merge now?");
     }
 }
