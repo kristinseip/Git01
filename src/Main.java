@@ -9,6 +9,6 @@ public class Main {
       System.out.println("here is another change, this is really fun");
         System.out.println("testing merging");
         System.out.println("What will happen here?");
-
+        System.out.println("Will I be able to merge now?");
     }
 }
